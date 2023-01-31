@@ -6,5 +6,5 @@
 *.test
 *.out
 go.work
-.vscode/
-bin/
+.vscode/*
+bin/*

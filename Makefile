@@ -12,4 +12,4 @@ bin/example:
 	@podman build . \
 	--target bin \
 	--output bin/ \
-	--platform local
+	--platform ${PLATFORM}
